@@ -35,7 +35,7 @@
                             <div class="w-100">
                                 <div class="d-flex flex-column h-100">
                                     <div class="mb-4 mb-md-5 text-center">
-                                        <a href="index-1.html" class="d-block auth-logo">
+                                        <a href="../../view/index.php" class="d-block auth-logo">
                                             <img src="assets/picture/Logo-PJ.png" alt="" height="88"> <span class="logo-txt">Modulo de Familia</span>
                                         </a>
                                     </div>
