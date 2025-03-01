@@ -10,8 +10,8 @@ require_once("../models/Documento.php");
 
 class Email extends PHPMailer{
 
-    protected $gCorreo = 'info@techcrema.com';
-    protected $gContrasena = '^K0rH|dr&ec';
+    protected $gCorreo = 'info@tecnocrema.online';
+    protected $gContrasena = 'Soport32025.';
 
     private $key = "MesaDePartesAnderCode";
     private $cipher = "aes-256-cbc";

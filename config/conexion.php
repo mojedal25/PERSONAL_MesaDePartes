@@ -2,8 +2,8 @@
     /* TODO:Inicia la session (si no esta iniciada) */
     session_start();
 
-    /* BD-Produccion:u719856447_mesadepartes
-    User_Produccion:u719856447_techcrema
+    /* BD-Produccion:u108399021_mesadeparteln
+    User_Produccion:u108399021_tecnocrema
     Pass:Soport32025. */
 
     /* TODO: Definición de la clase Conectar */
@@ -15,8 +15,8 @@
         protected function conexion(){
             try{
                 /* TODO: Intenta establecer la conexión utilizando PDO */
-                 $conectar = $this->dbh = new PDO("mysql:local=localhost;dbname=u719856447_mesadepartes","u719856447_techcrema","Soport32025.");
-                 /* $conectar = $this->dbh = new PDO("mysql:local=localhost;dbname=mesadepartes","root",""); */
+                       $conectar = $this->dbh = new PDO("mysql:local=localhost;dbname=u108399021_mesadeparteln","u108399021_tecnocrema","Soport32025.");
+                    /* $conectar = $this->dbh = new PDO("mysql:local=localhost;dbname=mesadepartes","root",""); */
                 return $conectar;
             }catch(Exception $e){
                 /* TODO: En caso de error, imprime un mensaje y termina el script */
@@ -32,8 +32,8 @@
 
         /* TODO: Método estático que devuelve la ruta base del proyecto */
         public static function ruta(){
-             return "https://mesadepartesln.techcrema.com//"; 
-            /* return "http://localhost/PERSONAL_MesadePartes/"; */
+                return "https://mesadepartesln.tecnocrema.online/";
+                /* return "http://localhost/PERSONAL_MesadePartes/"; */
         }
     }
 ?>
