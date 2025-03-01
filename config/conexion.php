@@ -32,7 +32,7 @@
 
         /* TODO: Método estático que devuelve la ruta base del proyecto */
         public static function ruta(){
-                return "https://mesadepartesln.tecnocrema.online/";
+                return "https://mesadepartesln.tecnocrema.online";
                 /* return "http://localhost/PERSONAL_MesadePartes/"; */
         }
     }
