@@ -29,7 +29,7 @@
                                 <div class="d-flex flex-column h-100">
                                     <div class="mb-4 mb-md-5 text-center">
                                         <a href="index.html" class="d-block auth-logo">
-                                            <img src="../../assets/picture/logo-sm.svg" alt="" height="28"> <span class="logo-txt">AnderCode</span>
+                                        <img src="assets/picture/Logo-PJ.png" alt="" height="88"> <span class="logo-txt">Modulo de Familia</span>
                                         </a>
                                     </div>
                                     <div class="auth-content my-auto">
