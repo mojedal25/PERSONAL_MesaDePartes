@@ -199,12 +199,7 @@
                                                     <div class="testi-contain text-white">
                                                         <i class="bx bxs-quote-alt-left text-success display-6"></i>
                                                             
-                                                         <h4 class="mt-4 fw-medium lh-base text-white">“I feel confident
-                                                            imposing change
-                                                            on myself. It's a lot more progressing fun than looking back.
-                                                            That's why
-                                                            I ultricies enim
-                                                            at malesuada nibh diam on tortor neaded to throw curve balls.”
+                                                         <h4 class="mt-4 fw-medium lh-base text-white">"La Mesa de Partes Virtual ha sido una gran solución para mí. Ya no tengo que hacer largas colas ni trasladarme hasta el juzgado. Presenté mis documentos de manera rápida y recibí confirmación al instante. ¡Muy eficiente y fácil de usar!"
                                                         </h4> 
 
                                                         <div class="mt-4 pt-3 pb-5">
@@ -213,9 +208,9 @@
                                                                     <img src="assets/picture/avatar-1-1.jpg" class="avatar-md img-fluid rounded-circle" alt="...">
                                                                 </div>
                                                                 <div class="flex-grow-1 ms-3 mb-4">
-                                                                    <h5 class="font-size-18 text-white">Manuel Ojeda
+                                                                    <h5 class="font-size-18 text-white">Carlo Obregon
                                                                     </h5>
-                                                                    <p class="mb-0 text-white-50">Web Designer</p>
+                                                                    <p class="mb-0 text-white-50">Parte Demandante</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -226,21 +221,16 @@
                                                     <div class="testi-contain text-white">
                                                         <i class="bx bxs-quote-alt-left text-success display-6"></i>
 
-                                                        <h4 class="mt-4 fw-medium lh-base text-white">“Our task must be to
-                                                            free ourselves by widening our circle of compassion to embrace
-                                                            all living
-                                                            creatures and
-                                                            the whole of quis consectetur nunc sit amet semper justo. nature
-                                                            and its beauty.”</h4>
+                                                        <h4 class="mt-4 fw-medium lh-base text-white">"Estoy muy satisfecho con el servicio de la Mesa de Partes Virtual. La plataforma es intuitiva y me permitió realizar mis trámites desde la comodidad de mi casa. Además, el soporte técnico respondió rápidamente a mis consultas. ¡Excelente iniciativa!"</h4>
                                                         <div class="mt-4 pt-3 pb-5">
                                                             <div class="d-flex align-items-start">
                                                                 <div class="flex-shrink-0">
                                                                     <img src="assets/picture/avatar-2-1.jpg" class="avatar-md img-fluid rounded-circle" alt="...">
                                                                 </div>
                                                                 <div class="flex-grow-1 ms-3 mb-4">
-                                                                    <h5 class="font-size-18 text-white">Rosanna French
+                                                                    <h5 class="font-size-18 text-white">Rosanna Briceño
                                                                     </h5>
-                                                                    <p class="mb-0 text-white-50">Web Developer</p>
+                                                                    <p class="mb-0 text-white-50">Abogada</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -251,18 +241,13 @@
                                                     <div class="testi-contain text-white">
                                                         <i class="bx bxs-quote-alt-left text-success display-6"></i>
 
-                                                        <h4 class="mt-4 fw-medium lh-base text-white">“I've learned that
-                                                            people will forget what you said, people will forget what you
-                                                            did,
-                                                            but people will never forget
-                                                            how donec in efficitur lectus, nec lobortis metus you made them
-                                                            feel.”</h4>
+                                                        <h4 class="mt-4 fw-medium lh-base text-white">"Gracias a la Mesa de Partes Virtual, pude presentar mi demanda sin complicaciones. El proceso fue claro y seguro, y me ahorró mucho tiempo. Es un gran avance hacia la modernización de la justicia. ¡Felicitaciones!"</h4>
                                                         <div class="mt-4 pt-3 pb-5">
                                                             <div class="d-flex align-items-start">
                                                                 <img src="assets/picture/avatar-3-1.jpg" class="avatar-md img-fluid rounded-circle" alt="...">
                                                                 <div class="flex-1 ms-3 mb-4">
                                                                     <h5 class="font-size-18 text-white">Ilse R. Eaton</h5>
-                                                                    <p class="mb-0 text-white-50">Manager
+                                                                    <p class="mb-0 text-white-50">Curador Judicial
                                                                     </p>
                                                                 </div>
                                                             </div>
