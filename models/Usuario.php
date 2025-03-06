@@ -34,7 +34,7 @@
                                 $_SESSION["usu_correo"] = $resultado["usu_correo"];
                                 $_SESSION["usu_img"] = $resultado["usu_img"];
                                 $_SESSION["rol_id"] = $resultado["rol_id"];
-                                header("Location:".Conectar::ruta()."view/Home/");
+                                header("Location:".Conectar::ruta()."view/home/");
                                 exit();
                             }
                         }else{
