@@ -56,7 +56,7 @@
 
                                                     <div class="col-lg-3">
                                                         <div class="mb-3">
-                                                            <label for="form-label" class="form-label">Area (*)</label>
+                                                            <label for="form-label" class="form-label">Juzgado (*)</label>
                                                             <select class="form-select" name="area_id" id="area_id" placeholder="Seleccionar" required>
                                                                 <option value="">Seleccionar</option>
 
@@ -66,7 +66,7 @@
 
                                                     <div class="col-lg-6">
                                                         <div class="mb-3">
-                                                            <label for="example-text-input" class="form-label">Tramite (*)</label>
+                                                            <label for="example-text-input" class="form-label">Documento (*)</label>
                                                             <select class="form-select" name="tra_id" id="tra_id" placeholder="Seleccionar" required>
                                                                 <option value="">Seleccionar</option>
 
@@ -76,14 +76,14 @@
 
                                                     <div class="col-lg-3">
                                                         <div class="mb-3">
-                                                            <label for="form-label" class="form-label">Nro Externo</label>
+                                                            <label for="form-label" class="form-label">Nro Expediente</label>
                                                             <input class="form-control" type="text" value="" name="doc_externo" id="doc_externo">
                                                         </div>
                                                     </div>
 
                                                     <div class="col-lg-3">
                                                         <div class="mb-3">
-                                                            <label for="form-label" class="form-label">Tipo (*)</label>
+                                                            <label for="form-label" class="form-label">Presentado (*)</label>
                                                             <select class="form-select" name="tip_id" id="tip_id" placeholder="Seleccionar" required>
                                                                 <option value="">Seleccionar</option>
 
