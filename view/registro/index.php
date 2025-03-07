@@ -108,7 +108,7 @@
                                         </div>
                                     </div>
                                     <div class="mt-4 mt-md-5 text-center" style="margin-top: 1rem!important;">
-                                        <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> Manuel Ojeda <i class="mdi mdi-heart text-danger"></i> techcrema.com</p>
+                                        <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> Manuel Ojeda <i class="mdi mdi-heart text-danger"></i> tecnocrema.online</p>
                                     </div>
                                 </div>
                             </div>

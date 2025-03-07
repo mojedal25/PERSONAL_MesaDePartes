@@ -31,7 +31,7 @@
                                 <div class="d-flex flex-column h-100">
                                     <div class="mb-4 mb-md-5 text-center">
                                         <a href="index.html" class="d-block auth-logo">
-                                            <img src="../../assets/picture/logo-sm.svg" alt="" height="28"> <span class="logo-txt">Minia</span>
+                                            <img src="assets/picture/Logo-PJ.png" alt="" height="88"> <span class="logo-txt">Modulo de Familia</span>
                                         </a>
                                     </div>
                                     <div class="auth-content my-auto">
@@ -51,7 +51,7 @@
                                         </div>
                                     </div>
                                     <div class="mt-4 mt-md-5 text-center">
-                                        <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> Poder Judicial <i class="mdi mdi-heart text-danger"></i> techcrema.com</p>
+                                        <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> Poder Judicial <i class="mdi mdi-heart text-danger"></i> tecnocrema.online</p>
                                     </div>
                                 </div>
                             </div>
